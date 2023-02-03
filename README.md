@@ -4,8 +4,8 @@ This is a react caruosel app designed in react. it display information inform of
 
 ## Usage
 
-> import the carousel component
-> pass values to the props (delay , children)
+import the carousel component and 
+pass values to the props (delay , children)
 
 #### Example
 ```
