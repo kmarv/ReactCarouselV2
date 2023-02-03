@@ -9,17 +9,17 @@ pass values to the props (delay , children)
 
 #### Example
 ```
-import Carousel from "../Carousel"
+import Carousel from "../Carousel";
 
 const App ()=>{
     return(
         <div className="App">
             <Carousel childern={[1,2,3,4,5]} delay={1000}>
         </div>
-    )
-}
+    );
+};
 
-export default App
+export default App;
 
 ```
 ## Live demo
